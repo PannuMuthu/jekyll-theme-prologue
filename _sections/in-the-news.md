@@ -1,6 +1,6 @@
 ---
 title: In The News
-icon: fa-newspaper-o
+icon: fa-newspaper
 order: 3
 ---
 
