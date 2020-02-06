@@ -1,7 +1,7 @@
 ---
 title: In The News
 icon: fa-newspaper-o
-order: 6
+order: 3
 ---
 
 June 2016- Published in the May/June Issue (Vol 23 #5) of <i>Imagine</i> Magazine of Johns Hopkins University  
