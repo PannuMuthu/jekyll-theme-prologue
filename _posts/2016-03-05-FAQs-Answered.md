@@ -1,12 +1,12 @@
 ---
-title: Third Post
-author: Chris
+title: FAQs Answered
+author: Karishma Muthukumar
 layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
 
-<span class="image left"><img src="{{ 'assets/images/post3.jpg' | relative_url }}" alt="" /></span>
+<span class="image"><img src="{{ 'assets/images/post3.jpg' | relative_url }}" alt="" /></span>
 
 <h3>How did you come up with your idea?</h3>
 My first time learning about a situation where patients are locked into their own bodies, I was devastated. Imagine how it would feel to be unable to convey your thoughts and feelings. Interestingly enough, while thinking about a solution, I was toying around with my phone until I came across the set of emojis. 
