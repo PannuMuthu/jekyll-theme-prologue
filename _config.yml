@@ -58,17 +58,6 @@ dribbble_url:
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
-defaults:
-   -
-     scope:
-       path: "_slides"  #__
-     values:
-       layout: "iframe"
-
- collections:
-   slides:
-     output: true
-
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
