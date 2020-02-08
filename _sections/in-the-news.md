@@ -1,11 +1,12 @@
 
-<span class="image"><img src="{{ 'assets/images/news.jpg' | relative_url }}" alt="" /></span>
-
 ---
 title: 
 icon: fa-newspaper
 order: 3
 ---
+
+<span class="image"><img src="{{ 'assets/images/news.jpg' | relative_url }}" alt="" /></span>
+
 
 
 
