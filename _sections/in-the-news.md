@@ -1,5 +1,5 @@
 ---
-title: In The News
+title: <span class="image"><img src="{{ 'assets/images/news.jpg' | relative_url }}" alt="" /></span>
 icon: fa-newspaper
 order: 3
 ---
