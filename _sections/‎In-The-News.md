@@ -1,5 +1,5 @@
 ---
-title:
+title: In The News
 icon: fa-newspaper
 order: 3
 ---
