@@ -14,6 +14,7 @@ January 2020 - Published in Forbes Magazine
 October 2019 - Medium Article on AIMED Opening Session 2019
 
 <span class="image"><img src="{{ 'assets/images/aimed.jpg' | relative_url }}" alt="" /></span>
+
 <a href="https://medium.com/@sheiszel/teen-spirit-5dd1188e80b1" class="button">Read The Article Here</a>
 
 <hr />
@@ -21,6 +22,7 @@ October 2019 - Medium Article on AIMED Opening Session 2019
 June 2019 - Published in Science Magazine
 
 <span class="image"><img src="{{ 'assets/images/sciencemag.jpg' | relative_url }}" alt="" /></span>
+
 <a href="https://www.sciencemag.org/news/2019/06/what-big-ideas-will-shape-us-science-over-next-decade-here-are-some-contenders" class="button">Read The Article Here</a>
 
 <hr />
