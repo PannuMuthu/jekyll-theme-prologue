@@ -6,6 +6,7 @@ order: 3
 January 2020 - Published in Forbes Magazine
 
 <span class="image"><img src="{{ 'assets/images/forbes.jpg' | relative_url }}" alt="" /></span>
+
 <a href="https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/#46a764027223" class="button">Read The Article Here</a>
 
 <hr />
@@ -27,6 +28,7 @@ June 2019 - Published in Science Magazine
 January 2018 - Interview with David Pogue at CES 2018
 
 <span class="image"><img src="{{ 'assets/images/ces.jpg' | relative_url }}" alt="" /></span>
+
 <a href="https://younginnovatorstowatch.com/2017/12/27/karishma-muthukumar/" class="button">Read The Interview Here</a>
 
 <hr />
@@ -40,6 +42,7 @@ June 2016- Published in the May/June Issue (Vol 23 #5) of <i>Imagine</i> Magazin
 May 17, 2016- Featured in <i>Huffington Post's</i> article titled "The Future of Pediatric Medicine: Young Innovators
 
 <span class="image"><img src="{{ 'assets/images/huffpost.jpg' | relative_url }}" alt="" /></span>
+
 <a href="https://www.huffpost.com/entry/the-future-of-pediatric-m_b_9998874" class="button">Read The Article Here</a>
 
 <hr />
@@ -50,5 +53,6 @@ February 8, 2016- Featured in CHOC Docs Blog
 </blockquote>
 
 <span class="image"><img src="{{ 'assets/images/choc.jpg' | relative_url }}" alt="" /></span>
+
 <a href="https://docs.chocchildrens.org/choc-hosted-peds-2040-conference-explores-future-pediatric-trends-and-technological-advances/" class="button">Read The Article Here</a>
 
